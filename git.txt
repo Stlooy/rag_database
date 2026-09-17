@@ -109,6 +109,9 @@ git push origin main --force
 
 git branch <branch-name>
 
+// u have to push the brach to be added
+git push -u origin <branch-name>
+
 
 // Switch between existing branches
 
