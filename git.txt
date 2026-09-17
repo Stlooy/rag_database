@@ -145,3 +145,16 @@ git branch -D <branch-name>        # Force delete (unmerged changes)
 //Delete a branch from GitHub (remote)
 
 git push origin --delete <branch-name>
+
+
+
+// get files pull them
+git pull origin main
+
+
+//clone 
+git clone https://github.com/Stlooy/rag_database.git
+
+//to start doing
+cd rag_database
+
