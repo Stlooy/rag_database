@@ -44,6 +44,8 @@ git push
 //check lasts adds if added correctly
 git status
 
+
+
 // To remove test.py from both your local folder and your GitHub repository, run:
 
 
